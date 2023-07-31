@@ -84,8 +84,9 @@ p {
     font-size: 20px;
   }
 
-  img {
-    max-height: 100px;
+  div>img {
+    margin-left:5px !important ;
+    width: 130px !important;
   }
 
   p {
