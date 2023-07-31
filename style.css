@@ -74,7 +74,7 @@ p {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .paper {
     padding: 10px 30px;
     font-size: 14px;
