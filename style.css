@@ -89,7 +89,9 @@ p {
     width: 160px !important;
     height:200px
   }
-
+.img{
+height: 210px;
+}
   p {
     font-size: 30px;
   }
